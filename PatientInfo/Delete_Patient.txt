@@ -1,0 +1,7 @@
+Request:
+
+Delete: https://stu3.test.pyrohealth.net/fhir/Patient/55d474b7-f430-47db-828e-0eb901b70867
+
+
+Response:
+ 204: No Content
